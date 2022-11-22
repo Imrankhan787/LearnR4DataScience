@@ -195,7 +195,7 @@ q <- c(1.5, 2.5, 3.5) ## How can we convert the vector from double to integer?
 ##Home work assignment
 ##Play with the inbuilt dataset "mtcars". Please find the dimensions, names of column and data type of mtcars dataset.
 mtcars
-iris
+
 
 
 
