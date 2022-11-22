@@ -7,7 +7,7 @@ TRUE & TRUE
 TRUE & FALSE
 FALSE & TRUE
 FALSE & FALSE
-###********* |*************###
+###********* |*************####
 TRUE | FALSE 
 FALSE | TRUE
 TRUE | TRUE   ## What is the difference between | or Xor?
